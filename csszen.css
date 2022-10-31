@@ -99,9 +99,7 @@ div.primary-sub {
   transition: width 0.5s;
 }
 
-.btn:hover {
-  width: 900px;
-}
+ 
 
 .footer-left,
 .footer-distributed {
